@@ -40,7 +40,7 @@ a {
 
 
 .newalbum {
-  background-image: url(/HYPERIAL/New\ album.jpg);
+  background-image: url(./HYPERIAL/New\ album.jpg);
 }
 
 
@@ -99,9 +99,9 @@ h2 {
 }
 
 .industry {
-  background-image: url(/Hyperial-Industry-e1347033902207.jpg);
+  background-image: url(./Hyperial-Industry-e1347033902207.jpg);
 }
 
 .bandphoto {
-  background-image: url(/HYPERIAL/Bandphoto.jpg);
+  background-image: url(./HYPERIAL/Bandphoto.jpg);
 }
